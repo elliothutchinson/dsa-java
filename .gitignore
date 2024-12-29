@@ -1,0 +1,25 @@
+# Gradle
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# VS Code
+*.vscode/
+
+# Eclipse
+/.classpath
+/.settings/
+/.project
+/bin/
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Misc
+*.log
+.DS_Store
